@@ -4,7 +4,7 @@ LeetCode Problem URL:
 
 Follow the URL for the Question and also check the SAMPLE TEST CASES Scenario from the Program...
 
-The Program is developed as per user understanding with proper sequencial levels starting from User Input.
+The Program is developed as per user understanding with proper sequencial levels starting from User Input alongwith usage of Inbuild functions..
 
 Python version: 3x
 
